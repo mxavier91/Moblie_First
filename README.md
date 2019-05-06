@@ -6,3 +6,5 @@ This is a Responsive Website for a fictional photography site
 
 * How to use media queries to make a site responsive
 * The importance of HTML semantics and how to use them
+* How to use FlexBox
+* How to implement Smooth Scrolling with jQuery
